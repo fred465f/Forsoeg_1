@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Skitse_glas_luft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0053654"
+     inkscape:cx="425.21854"
+     inkscape:cy="543.58347"
+     inkscape:window-width="958"
+     inkscape:window-height="981"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Lag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.150363"
+       id="rect1006"
+       width="12.783933"
+       height="4.2498412"
+       x="162.07314"
+       y="127.867" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="162.47546"
+       y="131.2932"
+       id="text2882"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="162.47546"
+         y="131.2932"
+         id="tspan2884">Laser</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.260101px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 162.09775,130.07707 H 92.5"
+       id="path6721" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999"
+       id="path7401"
+       sodipodi:type="arc"
+       sodipodi:cx="-159.46492"
+       sodipodi:cy="-6.8725314"
+       sodipodi:rx="20"
+       sodipodi:ry="20"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="slice"
+       d="m -139.46492,-6.8725314 a 20,20 0 0 1 -10,17.3205084 20,20 0 0 1 -20,-10e-7 20,20 0 0 1 -10,-17.3205074 h 20 z"
+       transform="rotate(-127.88505)" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7982"
+       cx="92.5"
+       cy="130.07707"
+       r="30" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.499999,130.07707 104.7688,80.763157"
+       id="path8236" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 157.89756,117.70207 v 9.21146 m 0,6.28055 v 9.9093"
+       id="path15856"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="29.178095"
+       y="195.4635"
+       id="text2882-1"
+       transform="rotate(-45)"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="29.178095"
+         y="195.4635"
+         id="tspan2884-7"
+         sodipodi:role="line">Aperture</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 144.16064,117.77418 v 9.21146 3.14028 3.14027 9.9093"
+       id="path15856-2"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="19.437031"
+       y="185.86127"
+       id="text2882-1-8"
+       transform="rotate(-45)"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="19.437031"
+         y="185.86127"
+         sodipodi:role="line"
+         id="tspan61044">Polarisator</tspan></text>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path68332"
+       sodipodi:type="arc"
+       sodipodi:cx="92.5"
+       sodipodi:cy="130.07707"
+       sodipodi:rx="7.5"
+       sodipodi:ry="7.5"
+       sodipodi:start="4.9573464"
+       sodipodi:end="6.2811297"
+       sodipodi:arc-type="slice"
+       d="m 94.318863,122.80096 a 7.5,7.5 0 0 1 5.681121,7.2607 L 92.5,130.07707 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="100.26826"
+       y="132.90154"
+       id="text90636"><tspan
+         sodipodi:role="line"
+         id="tspan90634"
+         style="font-size:2.82222px;baseline-shift:baseline;stroke-width:0.264583"
+         x="100.26826"
+         y="132.90154">θ<tspan
+   style="font-size:2.82222px;baseline-shift:sub"
+   id="tspan102227">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="90.577225"
+       y="121.84889"
+       id="text90636-8"><tspan
+         sodipodi:role="line"
+         id="tspan90634-6"
+         style="font-size:2.82222px;baseline-shift:baseline;stroke-width:0.264583"
+         x="90.577225"
+         y="121.84889">θ<tspan
+   style="font-size:2.82222px;baseline-shift:sub"
+   id="tspan102227-1">1</tspan></tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.192418;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect115579"
+       width="19.728107"
+       height="6.7057452"
+       x="109.15833"
+       y="51.723606"
+       transform="matrix(0.98015894,0.19821313,-0.18655378,0.98244475,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="109.43475"
+       y="57.623173"
+       id="text118047"
+       transform="rotate(10.986654)"><tspan
+         sodipodi:role="line"
+         id="tspan118045"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="109.43475"
+         y="57.623173">PhotoDet</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.204517px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.51256,80.107894 26.9198,5.582142"
+       id="path145179" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="119.52716"
+       y="87.126144"
+       id="text2882-1-8-4"
+       transform="rotate(-0.2253391)"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="119.52716"
+         y="87.126144"
+         sodipodi:role="line"
+         id="tspan61044-5">Polarisator</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.27846px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.336169,87.05475 26.509281,5.570715"
+       id="path145503" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="117.79254"
+       y="94.227936"
+       id="text2882-1-8-4-2"
+       transform="rotate(-0.2253391)"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="117.79254"
+         y="94.227936"
+         sodipodi:role="line"
+         id="tspan150860">Lens</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="86.703712"
+       y="131.58604"
+       id="text90636-1"><tspan
+         sodipodi:role="line"
+         id="tspan90634-62"
+         style="font-size:2.82222px;baseline-shift:baseline;stroke-width:0.264583"
+         x="86.703712"
+         y="131.58604">θ<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan155031">2</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.499999,130.07707 40.923141,111.18988"
+       id="path157664" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="-91.48156"
+       y="85.541534"
+       id="text118047-4"
+       transform="rotate(-63.646166)"><tspan
+         sodipodi:role="line"
+         id="tspan118045-1"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="-91.48156"
+         y="85.541534">PhotoDet</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect163813"
+       width="20.527363"
+       height="6.0529404"
+       x="70.755966"
+       y="-86.651985"
+       transform="rotate(116.77561)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 35.922886,128.82236 53.423777,93.688989"
+       id="path163928" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.344623,133.82262 65.134901,97.768144"
+       id="path163930" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="53.583111"
+       y="92.988503"
+       id="text2882-1-8-4-1"
+       transform="rotate(-0.2253391)"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="53.583111"
+         y="92.988503"
+         sodipodi:role="line"
+         id="tspan61044-5-7">Polarisator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="64.84005"
+       y="98.248894"
+       id="text2882-1-8-4-2-9"
+       transform="rotate(-0.2253391)"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="64.84005"
+         y="98.248894"
+         sodipodi:role="line"
+         id="tspan150860-8">Lens</tspan></text>
+  </g>
+</svg>
